@@ -1,4 +1,4 @@
-﻿# Subtitle Edit
+﻿# Subtitle Edit 
 
 The subtitle editor :)
 
